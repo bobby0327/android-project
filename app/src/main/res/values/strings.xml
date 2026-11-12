@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Classroom Connect</string>
+    <!-- OAuth web client ID from google-services.json. -->
+    <string name="default_web_client_id">32495658629-pgvvam2qd3ilbin5tkl4job4iuqlnlam.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Graduation Cap / Classroom Connect Emblem -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M12,3L1,9l11,6l9,-4.91V17h2V9L12,3zM5,13.18v4l7,3.82l7,-3.82v-4l-7,3.82l-7,-3.82z"/>
+</vector>

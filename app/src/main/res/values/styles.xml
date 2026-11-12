@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.ClassroomConnect" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#E87768</item>
+        <item name="android:navigationBarColor">#FBFAF8</item>
+        <item name="android:statusBarColor">#FBFAF8</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
